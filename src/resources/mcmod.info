@@ -1,0 +1,21 @@
+[
+{
+  "modid": "incharacter",
+  "name": "In Character",
+  "description": "A mod for a more roleplay-focused chat system, supporting whisper, talk, yell, emotes and OOC chat.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Mario90900"
+  ],
+  "credits": "Thanks to my friends who helped me by letting me bounce ideas off of them!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

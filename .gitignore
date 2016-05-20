@@ -1,0 +1,27 @@
+# gradle files
+/.gradle
+/build
+# /gradle
+# /gradlew
+# /gradlew.bat
+
+# eclipse related files
+/.metadata
+/.classpath
+/.project
+/bin
+
+# minecraft generated files
+/config
+/crash-reports
+/logs
+/mods
+/resourcepacks
+/saves
+/screenshots
+/world
+/*.json
+/eula.txt
+/options.txt
+/server.properties
+/usernamecache.json

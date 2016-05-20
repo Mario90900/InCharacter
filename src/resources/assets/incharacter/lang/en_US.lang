@@ -1,0 +1,22 @@
+# Items
+item.incharacter:enderResonator.name=Ender Resonator
+
+# Tooltips
+tooltip.enderResonator=Frequency
+
+# Chat Messages
+chat.talk.character=T
+chat.whisper.character=W
+chat.yell.character=Y
+chat.ooc.character=OOC
+chat.resonator.character=ER
+
+chat.talk.muffle=talking nearby.
+chat.whisper.muffle=whispering nearby.
+chat.yell.muffle=yelling nearby.
+chat.resonator.muffle=over a Resonator nearby.
+
+chat.message.youhear=You hear
+chat.message.getusernameresponse=The following players have that Nickname:
+chat.message.succesnickchange=Nickname changed successfully!
+chat.message.enderResonatorchanged=Ender Resonator changed to Frequency
